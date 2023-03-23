@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalpatani&show_icons=true&locale=en&layout=compact" alt="vatsalpatani" /></p>
 
 
-> **✍️ Random Dev Quote**:
+> **✍️ Random Dev Quote**:<br>
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 <br>
 <br>
