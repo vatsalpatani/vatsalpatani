@@ -19,12 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalpatani&show_icons=true&locale=en&layout=compact" alt="vatsalpatani" /></p>
 
-> **🐍 Activity Snake**:
-|![Animation](https://raw.githubusercontent.com/vatsalpatani/vatsalpatani/output/github-contribution-grid-snake-dark.svg)|
-|---|
 
 > **✍️ Random Dev Quote**:
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
-|---|
-
- ![Snake animation](https://github.com/vatsalpatani/vatsalpatani/blob/output/github-contribution-grid-snake.svg)
