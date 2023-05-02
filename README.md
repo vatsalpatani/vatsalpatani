@@ -1,54 +1,36 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalpatani&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalpatani" /> </p>
 
 
-> <h1 align="center">Hi 👋, I'm Vatsal Patani</h1> 
-<h3 align="center">A passionate developer from Gujarat , India</h3>
+ ### About Me 🚀
 
-- 🔭 I’m currently working on **Front End Developing Languages**
+🎓 Hi there! I'm Vatsal Patani, a BCA student with a passion for coding and technology. 
 
-- 🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , PHP , LARAVEL , etc.**
+🔭 I’m currently working on **Front End Developing Languages**
 
-- 📫 How to reach me **vatsalpatani@gmail.com**
+🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , PHP , LARAVEL , etc.**
 
-> <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vatsalpatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vatsalpatani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/vatsalpatani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vatsalpatani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vatsalpatani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsalpatani" height="30" width="40" /></a>
-</p>
+📫 How to reach me **vatsalpatani@gmail.com**
+
 <br>
 
-> <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+## 🐦 Latest Tweet
 <br>
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=vatsalpatani&theme=dracula&response=true&border=true&time=true&icon=default"/></a><br><br>
 
-> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalpatani&show_icons=true&locale=en&layout=compact" alt="vatsalpatani" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-patani/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vatsalpatani) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vatsalpatani/) 
+
+<h3 align = "left"> Github Stat's: <h3>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vatsalpatani&show_icons=true&theme=tokyonight" /><br><br>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalpatani&theme=tokyonight" /><br><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalpatani&show_icons=true&locale=en&layout=compact" alt="vatsalpatani" /><br>
 <br>
 
 
-> **✍️ Random Dev Quote**:<br>
+ **✍️ Random Dev Quote**:<br><br>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br>
 <br>
