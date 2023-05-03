@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **Front End Developing Languages**
 
-🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , PHP , LARAVEL , etc.**
+🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , PHP , LARAVEL , PYTHON , etc.**
 
 📫 How to reach me **vatsalpatani@gmail.com**
 
