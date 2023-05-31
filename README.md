@@ -23,8 +23,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vatsalpatani/) 
 
 <h3 align = "left"> Github Stat's: <h3>
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vatsalpatani&show_icons=true&theme=tokyonight" /><br><br>
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalpatani&theme=tokyonight" /><br><br>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vatsalpatani&show_icons=true&theme=tokyonight&show_owner=true" /><br><br>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalpatani&theme=tokyonight&show_owner=true" /><br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalpatani&show_icons=true&locale=en&layout=compact&show_owner=true" alt="vatsalpatani" /><br>
 <br>
 
