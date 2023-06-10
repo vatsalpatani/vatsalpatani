@@ -15,7 +15,8 @@
 
 ## 🐦 Latest Tweet
 <br>
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=vatsalpatani&theme=dracula&response=true&border=true&time=true&icon=default"/></a><br><br>
+<img src="https://gtce.itsvg.in/api?username=vatsalpatani&theme=dracula&icon=hashtag&time=true&response=true&border=true"/>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-patani/) 
