@@ -13,10 +13,10 @@
 
 <br>
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet
 <br>
 <img src="https://gtce.itsvg.in/api?username=vatsalpatani&theme=dracula&icon=hashtag&time=true&response=true&border=true"/>
-<br><br>
+<br><br> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-patani/) 
