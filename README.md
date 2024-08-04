@@ -3,9 +3,9 @@
 
  ### About Me 🚀
 
-🎓 Hi there! I'm Vatsal Patani, a BCA student with a passion for coding and technology. 
+🎓 Hi there! I'm Vatsal Patani, a web devloper with a passion for coding and technology. 
 
-🔭 I’m currently working on **Front End Developing Languages**
+🔭 I’m currently working on **BackEnd Developing Languages**
 
 🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , PHP , LARAVEL , PYTHON , etc.**
 
